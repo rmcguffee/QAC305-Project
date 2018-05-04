@@ -1,0 +1,50 @@
+---
+title: "QAC305 Project"
+author: "Ryan McGuffee, Xhonia Robinson, and Elliot Williams"
+date: "5/9/2018"
+output: html_document:
+  toc: true
+  toc_float: false
+  code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+## Problem Statement
+What is the problem you are trying to understand? Why is it important or useful to gain insight into
+this problem?
+  
+
+## Data Description
+Describe the dataset in detail. What is the source? How was it collected? What are the variables?
+What are the characteristics of the variables?
+
+```{r cars}
+# this is just an example of an R code chunk. don't use this!
+summary(cars)
+```  
+## Data Preprocessing
+
+Describe any variable transformations, treatment of missing values, recoding and any other data
+manipulations completed.
+
+## Statistical Approaches
+
+Describe your analytic techniques in detail. Assume that your audience is not familiar with the
+techniques that you are using.
+
+## Results
+
+Describe the results in detail. What did you find. This the section for tables and graphs. You want
+to communicate your results as clearly and compellingly as possible.
+
+## Discussion
+
+What did you find? What are the implications for policy? What suggestions do you have for other
+researchers who want to take your work further?
+
+## References
+
+Standard reference section (similar to any term paper)
